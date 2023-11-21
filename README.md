@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Portofolio Website](https://manjeetdeveloper2022.github.io/Bootstrap-5-Portfolio-Website/)
+- 🔭 I’m currently working on [Portofolio Website](https://manjeetdeveloper.github.io/Codinghub-Base-WebsiteS/)
 
 - 🌱 I’m currently learning **PHP for Beginners,PHP CMS Project,WordPress Developer,The Complete Web Developer Course 3.0**
 
@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with [WebyRoot.com](https://webyroot.com/)
 
-- 👨‍💻 All of my projects are available at [https://manjeetdeveloper2022.github.io/Bootstrap-5-Portfolio-Website/](https://manjeetdeveloper2022.github.io/Bootstrap-5-Portfolio-Website/)
+- 👨‍💻 All of my projects are available at [https://manjeetdeveloper2022.github.io/Bootstrap-5-Portfolio-Website/](https://manjeetdeveloper.github.io/Bootstrap-5-Portfolio-Website/)
 
 - 📝 I regularly write articles on [https://manjeetdeveloper.github.io/blog_/](https://manjeetdeveloper.github.io/blog_/)
 
