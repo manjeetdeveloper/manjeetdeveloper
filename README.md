@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Portofolio Website](https://manjeetdeveloper.github.io/Codinghub-Base-WebsiteS/)
 
-- 🌱 I’m currently learning **PHP for Beginners,PHP CMS Project,WordPress Developer,The Complete Full-Stack Developer Course 3.0**
+- 🌱 I’m currently learning ** PHP for Beginners,WordPress Developer,The Complete Full-Stack Developer Course **
 
 - 👯 I’m looking to collaborate on [CodewithHarry](https://www.codewithharry.com/)
 
