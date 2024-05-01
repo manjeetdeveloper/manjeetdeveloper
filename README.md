@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with [WebyRoot.com](https://webyroot.com/)
 
-- 👨‍💻 All of my projects are available at [👇](https://github.com/manjeetdeveloper)
+- 👨‍💻 All of my projects are available at (https://github.com/manjeetdeveloper)
 
 - 📝 I regularly write articles on [https://manjeetdeveloper.github.io/blog_/](https://manjeetdeveloper.github.io/blog_/)
 
